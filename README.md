@@ -4,6 +4,7 @@
 
 ### ساختار پروژه
 برای این تمرین از folder structure زیر استفاده شده است:
+
 ![image](https://github.com/ParsaEnayatiCE/Weather/assets/20658200/22a3ae76-71d7-40c7-b894-73a79b28e36b)
 
 در پوشه Views صفحه‌ها ‌و view های مورد نیاز برای این تمرین پیاده‌سازی شده‌اند.
